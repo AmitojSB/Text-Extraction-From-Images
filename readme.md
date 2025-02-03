@@ -26,6 +26,6 @@ This repository contains a Python script for extracting text from images using t
 ### 3. Contributing
 Contributions are welcome! If you find any issues or have suggestions, feel free to open an issue or submit a pull request.
 
-### License
+### Licence
 This project is licensed under the MIT License - see the LICENSE file for details.
 
